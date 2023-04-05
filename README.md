@@ -4,7 +4,7 @@ I am skilled in Backend Development.
 
 I have analytical skills and good communication with people. I like to improve my self. I am ambitious, responsible and hardworking.
 
-**Strong Languages:** SQL, PL/SQL, CSS, JavaScript, jQuery, Node JS, Express JS, PHP, Laravel
+**Strong Languages:** SQL, PL/SQL, CSS, JavaScript, jQuery, Java, Spring Boot, Node JS, Express JS, PHP, Laravel
 
 Here are some ideas to get you started:
 
