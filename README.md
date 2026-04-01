@@ -1,10 +1,8 @@
-### Hi I'm Bekir 👋
+### Hi I'm Hasan 👋
 
-I am skilled in Backend Development.
+Software Engineer with 4+ years of experience in backend and full-stack development, specializing in Java, Spring Boot, REST APIs, and database-driven systems. Focused on building scalable backend architectures and integrating AI-driven solutions (LLM & RAG). Experienced in Agile/Scrum environments across finance, insurance, and logistics domains. Currently pursuing an M.Sc. in Information Engineering at TUM (Heilbronn).
 
-I have analytical skills and good communication with people. I like to improve my self. I am ambitious, responsible and hardworking.
-
-**Strong Languages:** SQL, PL/SQL, CSS, JavaScript, jQuery, Java, Spring Boot, Node JS, Express JS, PHP, Laravel
+**Strong Languages:** Java, Spring Boot, SQL, PL/SQL, CSS, JavaScript, jQuery, Node JS, Express JS, PHP, Laravel
 
 Here are some ideas to get you started:
 
