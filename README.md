@@ -1,12 +1,34 @@
-### Hi I'm Hasan 👋
+### Hi, I’m Hasan 👋
 
-Software Engineer with 4+ years of experience in backend and full-stack development, specializing in Java, Spring Boot, REST APIs, and database-driven systems. Focused on building scalable backend architectures and integrating AI-driven solutions (LLM & RAG). Experienced in Agile/Scrum environments across finance, insurance, and logistics domains. Currently pursuing an M.Sc. in Information Engineering at TUM (Heilbronn).
+#### AI & Backend Engineer
 
-**Strong Languages:** Java, Spring Boot, SQL, PL/SQL, CSS, JavaScript, jQuery, Node JS, Express JS, PHP, Laravel
+I design and build **AI-powered backend systems**, focusing on **RAG architectures, LLM integrations, and scalable data-driven applications**.
 
-Here are some ideas to get you started:
+- 🇩🇪 Based in Germany
+- 🎓 M.Sc. Information Engineering @ TUM
+- 💼 4+ years in backend engineering (Java, Spring Boot, Node.js)
+- 🚀 Focused on **LLMs, semantic search, and intelligent systems**
 
-- 🔭 I’m currently working on Full Stack Development (BE-Heavy)
-- 🌱 I’m currently learning Java, Spring Boot, Node JS, Nest JS...
-- 👯 I’m looking to collaborate on ...
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/hasan-bekir-dogan/)
+### What I Work On
+
+- Building **RAG-based systems** (retrieval + generation pipelines)
+- Integrating **LLM APIs (OpenAI, Gemini)** into production systems
+- Designing **scalable backend architectures**
+- Developing **semantic search pipelines with vector databases**
+
+### Tech Focus
+
+**Backend:** Java, Spring Boot, Node.js <br />
+**AI:** LLMs, RAG, Vector DBs (Pinecone) <br />
+**Databases:** PostgreSQL, MongoDB, Oracle <br />
+**Architecture:** Microservices, Event-Driven Systems, Async Processing
+
+### Projects Worth Checking
+
+- 🔍 LLM Course Recommendation System (RAG + Pinecone + Spring Boot)
+- 🏥 HealonTrip (Scalable healthcare backend system)
+- 💬 ChatApp (Real-time system with WebSockets)
+
+### Connect
+
+- LinkedIn: [https://www.linkedin.com/in/hasan-bekir-dogan/](https://www.linkedin.com/in/hasan-bekir-dogan/)
